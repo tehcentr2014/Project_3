@@ -2,7 +2,7 @@
 
 ### Run the App:
 
-[On HEROKU](https://website-name.com](https://content-manager-p3-52a70c663149.herokuapp.com)
+[On HEROKU](https://content-manager-p3-52a70c663149.herokuapp.com)
 
 or
 
