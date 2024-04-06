@@ -2,11 +2,11 @@
 
 ### Run the App:
 
-[On HEROKU]([https://website-name.com](https://content-manager-p3-52a70c663149.herokuapp.com/])
+[On HEROKU](https://website-name.com](https://content-manager-p3-52a70c663149.herokuapp.com)
 
 or
 
-[For Free on Streamlit]([[https://website-name.com])
+[For Free on Streamlit](https://content-manager.streamlit.app)
 
 ### Overview
 Working quite often with marketing advertising campaigns and to speed up the process, I came up with an idea of ​​creating a product description generator. And today I want to introduce you the Content Marketing Assistant. This is a Python App designed to aid in the automatic generation of product descriptions using OpenAI Assistans API. This application simplifies the process by taking provided keywords and generating concise descriptions based on predefined criteria.
