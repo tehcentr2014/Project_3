@@ -29,7 +29,7 @@ Working quite often with marketing advertising campaigns and to speed up the pro
 
 ### Deployment
 1. Clone the repository
-2. Use Heroku or Streamlit PaaS-platform for deployment 
+2. Use Heroku or Streamlit PaaS-platform for deployment. I have used both platforms, but Streamlit is more convenient for me, because it is free for open projects and provides the opportunity to create an attractive web-interface 
 3. For deployment on Heroku use Python Buildpack, Streamlit will create the environment automatically
 4. Set your OpenAI API key and set up it as Config Vars
 
