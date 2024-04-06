@@ -15,25 +15,6 @@ Working quite often with marketing advertising campaigns and to speed up the pro
 - **Description Generation**: Using the provided keywords, the application generates product descriptions consisting of a title, bullet points, and a detailed description, adhering to specified character limits.
 - **Streamlit Interface**: The application offers a user-friendly interface powered by Streamlit, making it accessible and easy to use.
 
-### Installation
-1. Clone the repository:
-
-    ```bash
-    git clone <repository-url>
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Set up OpenAI API access by creating a `.env` file in the root directory and adding your OpenAI API key:
-
-    ```
-    OPENAI_API_KEY=<your-openai-api-key>
-    ```
-
 ### Usage
 1. Run the App [on HEROKU](https://content-manager-p3-52a70c663149.herokuapp.com) or [For Free on STREAMLIT](https://content-manager.streamlit.app)
 2. Access the application through the provided URL in your browser.
@@ -46,7 +27,19 @@ Working quite often with marketing advertising campaigns and to speed up the pro
 7. The generated description will be displayed on the interface.
 ![image](https://github.com/tehcentr2014/Project_3/assets/161617022/d6502d33-f665-499f-a37a-120cc419f907)
 
-### Acknowledgments
+### Deployment
+1. Clone the repository
+2. Use Heroku or Streamlit PaaS-platform for deployment 
+3. For deployment on Heroku use Python Buildpack, Streamlit will create the environment automatically
+4. Set your OpenAI API key and set up it as Config Vars
+
+### Dependencies
 - This project utilizes the OpenAI API for natural language processing.
 - Streamlit is used for creating the user interface.
+
+### Acknowledgments and Sources used:
+- [Openai Assistant API Documentation](https://platform.openai.com/docs/assistants/overview?context=with-streaming)
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [Heroku Documentation](https://devcenter.heroku.com/categories/reference)
+
 
